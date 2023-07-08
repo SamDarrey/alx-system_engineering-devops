@@ -1,3 +1,2 @@
 #!/bin/bash
-mkdir /tmp/my_first_directory/
-vi 5-listfilesdigitonly
+mkdir /tmp/my_first_directory
